@@ -1,5 +1,5 @@
-# Python lesson
+# Python Lesson
 ## Author 
-Philip
+Philip Antweiler
 ## Date
-2019-09-24
+Tue 2019-09-24
